@@ -1,2 +1,3 @@
 this is file b - before first commit 
 line added after first commit
+line added after second commit
